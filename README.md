@@ -12,6 +12,6 @@ This directory contains a series of Jupyter notebooks that were run offline on t
 This directory contains Jupyter notebooks which were used to train our various models. Pytorch model parameters are also stored in this directory. To train or use specific models, we recommend clicking the "Open in Colab" button at the top of each notebook.
 
 ## Dataset Sources
-smallset: https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization
-medset: https://www.kaggle.com/datasets/ankit1743/skyview-an-aerial-landscape-dataset (resizing, decolorization, and organization done by us)
-largeset: all images from smallset, plus all images from medset (resizing, decolorization, and organization done by us)
+* smallset: https://www.kaggle.com/datasets/theblackmamba31/landscape-image-colorization
+* medset: https://www.kaggle.com/datasets/ankit1743/skyview-an-aerial-landscape-dataset (resizing, decolorization, and organization done by us)
+* largeset: all images from smallset, plus all images from medset (resizing, decolorization, and organization done by us)
